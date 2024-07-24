@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshay Bagai</h1> 
+<h1 align="center">Hi 👋, I'mRaj Kumar</h1> 
 <h3 align="center">I am a Professional Full Stack Developer 🧑‍💻, Prompt Engineer and all-sports-fan ⛹️‍♂️.</h3>
 
 
@@ -12,7 +12,7 @@
 
 - 📔 Contributing to Open source as much as I can. 
 
-- 📫 How to reach me **akshaybagai52@gmail.com**
+- 📫 How to reach me **rajkumarktr10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
