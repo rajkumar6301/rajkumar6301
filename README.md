@@ -22,7 +22,7 @@
 <a href="https://www.instagram.com/rajkumar060301/" rel="nofollow">
   <img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" alt="Instagram Badge" style="max-width: 100%; width: 32px; height: 32px;">
 </a>
-<a href="https://twitter.com/rajkumar6301" rel="nofollow">
+<a href="https://twitter.com/rajkumar060301" rel="nofollow">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter Badge" style="max-width: 100%; width: 32px; height: 32px;">
 </a>
 
