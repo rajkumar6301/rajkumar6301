@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">  
-<a href="https://www.linkedin.com/in/rajkumar6301/" target="blank"><img src="https://img.shields.io/badge/linkedin" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/rajkumar6301/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin Badge" data-canonical-src="https://cdn-icons-png.flaticon.com/512/174/174857.png?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.instagram.com/rajkumar060301/" rel="nofollow"><img src="https://camo.githubusercontent.com/744f5586e9eee9ca48c84aa31a04cbc28fa9da0359eba6856cc26ce041db3031/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4531333036433f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Dev.to Badge" data-canonical-src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://twitter.com/rajkumar6301" rel="nofollow"><img src="https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter Badge" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
-
+</p>
 <h3 align="left">My Arsenal:</h3>
 <p align="left"> 
 
